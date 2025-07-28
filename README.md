@@ -4,4 +4,4 @@ Brushless DC motor operation and testing
 ![GENIRAN FAN Core](https://raw.githubusercontent.com/RomiranE-bike/BLDC_motor_project/main/type_1/image/20240830_175927.jpg)
 
 ## type_2
-![GENIRAN FAN Core](https://raw.githubusercontent.com/RomiranE-bike/Romiran_Ebike_project/main/20250517_175137.jpg)
+![GENIRAN FAN Core](https://raw.githubusercontent.com/RomiranE-bike/BLDC_motor_project/main/type_2/image/20241018_102711.jpg)
